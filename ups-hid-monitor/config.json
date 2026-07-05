@@ -1,0 +1,12 @@
+{
+  "name": "UPS HID Monitor",
+  "version": "1.0.0",
+  "slug": "ups_hid_monitor",
+  "description": "Monitor UPS HID via USB",
+  "startup": "services",
+  "boot": "auto",
+  "ports": {},
+  "map": ["config:rw"],
+  "options": {},
+  "schema": {}
+}
